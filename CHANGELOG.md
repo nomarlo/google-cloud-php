@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.153.1
+
+<details><summary>google/cloud-compute 0.1.1</summary>
+
+
+
+### Bug Fixes
+
+* synth.metadata for Compute ([#3950](https://www.github.com/googleapis/google-cloud-php/issues/3950)) ([25f29b2](https://www.github.com/googleapis/google-cloud-php/commit/25f29b2e2b8ddfc2a340d0ebf4db6d36fb9d4554))
+
+</details>
+
 ## 0.153.0
 
 <details><summary>google/cloud-asset 1.4.0</summary>
